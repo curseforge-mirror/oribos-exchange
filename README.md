@@ -1,6 +1,6 @@
 # Oribos Exchange Mirror
 
-This is a mirror of Erorus's Oribos Exchange
+This is a mirror of erorus_curseforge's Oribos Exchange
 
 - [Curseforge URL](https://www.curseforge.com/wow/addons/oribos-exchange)
 
